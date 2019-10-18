@@ -5,6 +5,7 @@ const bluebird = require(`bluebird`);
 var Promise = require(`bluebird`);
 const syncDelay = bluebird.promisify(setTimeout);
 
+// Code for Worker Containers
 
 function wait(s) {
     return new Promise((resolve, reject) => {
