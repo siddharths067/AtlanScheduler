@@ -1,0 +1,987 @@
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 13","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 14","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 15","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 1","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 2","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 3","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 4","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 5","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 6","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 7","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 8","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 9","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 10","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"An error occurred while fetching task from db, re-queuing TypeError: taskPromise.isPending is not a function","level":"error","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 11","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 12","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 13","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 14","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 15","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 16","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":2,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 17","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 18","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 19","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"name":"SequelizeDatabaseError","parent":{"code":"WARN_DATA_TRUNCATED","errno":1265,"sqlState":"01000","sqlMessage":"Data truncated for column 'status' at row 1","sql":"UPDATE `tasks` SET `status`=?,`updatedAt`=? WHERE `id` = ?","parameters":["scheduled","2019-10-18 12:15:01","19"]},"original":{"code":"WARN_DATA_TRUNCATED","errno":1265,"sqlState":"01000","sqlMessage":"Data truncated for column 'status' at row 1","sql":"UPDATE `tasks` SET `status`=?,`updatedAt`=? WHERE `id` = ?","parameters":["scheduled","2019-10-18 12:15:01","19"]},"sql":"UPDATE `tasks` SET `status`=?,`updatedAt`=? WHERE `id` = ?","parameters":["scheduled","2019-10-18 12:15:01","19"],"level":"error","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":2,"level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 20","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"name":"SequelizeDatabaseError","parent":{"code":"WARN_DATA_TRUNCATED","errno":1265,"sqlState":"01000","sqlMessage":"Data truncated for column 'status' at row 1","sql":"UPDATE `tasks` SET `status`=?,`updatedAt`=? WHERE `id` = ?","parameters":["scheduled","2019-10-18 12:15:36","20"]},"original":{"code":"WARN_DATA_TRUNCATED","errno":1265,"sqlState":"01000","sqlMessage":"Data truncated for column 'status' at row 1","sql":"UPDATE `tasks` SET `status`=?,`updatedAt`=? WHERE `id` = ?","parameters":["scheduled","2019-10-18 12:15:36","20"]},"sql":"UPDATE `tasks` SET `status`=?,`updatedAt`=? WHERE `id` = ?","parameters":["scheduled","2019-10-18 12:15:36","20"],"level":"error","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 21","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"name":"SequelizeDatabaseError","parent":{"code":"WARN_DATA_TRUNCATED","errno":1265,"sqlState":"01000","sqlMessage":"Data truncated for column 'status' at row 1","sql":"UPDATE `tasks` SET `status`=?,`updatedAt`=? WHERE `id` = ?","parameters":["scheduled","2019-10-18 12:16:07","21"]},"original":{"code":"WARN_DATA_TRUNCATED","errno":1265,"sqlState":"01000","sqlMessage":"Data truncated for column 'status' at row 1","sql":"UPDATE `tasks` SET `status`=?,`updatedAt`=? WHERE `id` = ?","parameters":["scheduled","2019-10-18 12:16:07","21"]},"sql":"UPDATE `tasks` SET `status`=?,`updatedAt`=? WHERE `id` = ?","parameters":["scheduled","2019-10-18 12:16:07","21"],"level":"error","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":2,"level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":3,"level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":4,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 22","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 23","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 24","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 25","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 26","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 27","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 28","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 29","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 30","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 31","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 32","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Fetching Tasks of User 1","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":2,"level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 33","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 34","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 35","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 36","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true for 36","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null for 36","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null for 36","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null for 36","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 37","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 2","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true for 37","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 4","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here true for 37","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 8","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null for 37","level":"info","service":"Atlan Backend"}
+{"message":"Waiting to check deletion 16","level":"info","service":"Atlan Backend"}
+{"message":"Waited to check deletion","level":"info","service":"Atlan Backend"}
+{"message":"Deletion Check done here null for 37","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 38","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":2,"level":"info","service":"Atlan Backend"}
+{"message":"Deletion request for task","level":"info","service":"Atlan Backend"}
+{"message":"Successfully set deletion flag for worker","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 39","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 40","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Task Aborted","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"A task request is submitted","level":"info","service":"Atlan Backend"}
+{"message":1,"level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Added Console to Winston","level":"info","service":"Atlan Backend"}
+{"message":"Connection established to MySQL Server Correctly","level":"info","service":"Atlan Backend"}
+{"message":"Task Model initialized","level":"info","service":"Atlan Backend"}
+{"message":"Id Popped from the Queue 41","level":"info","service":"Atlan Backend"}
+{"message":"Task Schedulation Notified","level":"info","service":"Atlan Backend"}
+{"message":"Fetching Tasks of User 1","level":"info","service":"Atlan Backend"}
+{"message":"Fetching Tasks of User 1","level":"info","service":"Atlan Backend"}
+{"message":"Fetching Tasks of User 1","level":"info","service":"Atlan Backend"}
+{"message":"Fetching Tasks of User 1","level":"info","service":"Atlan Backend"}
+{"message":"Fetching Tasks of User 1","level":"info","service":"Atlan Backend"}
+{"message":"Task Done","level":"info","service":"Atlan Backend"}
+{"message":"Fetching Tasks of User 1","level":"info","service":"Atlan Backend"}
+{"message":"Queue Empty","level":"info","service":"Atlan Backend"}
