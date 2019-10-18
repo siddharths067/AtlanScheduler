@@ -4,6 +4,24 @@
 NOTE: in some cases db might start late than web, just restart the compose and it'll resolve,
 I didn't add a waitforit.sh file
 
+
+# API Routes and POSTMAN collection for testing
+
+```GET /{userId}``` Gets the tasks of user as JSON
+
+```POST /```  Submits a task by the user
+
+```DELETE / ``` deletes a task by the user
+
+See The Data Model and POSTMAN collection for details on how to send requests
+
+Here is the button for postman collection for testing. 
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/8c4704b570e6d850a929)
+
+
+
+
 # Data Modelling
 The Task Datatype is as follows
 ```$xslt
@@ -35,9 +53,3 @@ to check if user has aborted the task by checking a flag in the key value store
 * The System is expected to scale horizontally by increasing the worker containers. For the purpose
 of easy evaluation I have just added the worker project in the same repo, however it is trivial
 to see that it could be used in a separate docker image to extend the system horizontally
-
-# POSTMAN collection for testing
-Here is the button for postman collection for testing. 
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/8c4704b570e6d850a929)
-
