@@ -16,7 +16,7 @@ function wait(s) {
     })
 }
 
-
+// The task attribute of model is used to select handler, this ideally should be done using typescript
 const FunctionMapper = {
     "task1": function(data){
 
