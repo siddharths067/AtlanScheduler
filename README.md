@@ -8,7 +8,7 @@ docker-compose build && docker-compose up
 ``` 
 to execute it
 
-By default for the sake of solving the questions and easy evaluation from your end, I launch 3 workers
+By default for the sake of solving the question and easy evaluation from your end, I launch 3 workers
 
 
 
