@@ -27,8 +27,6 @@ Here is the button for postman collection for testing.
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/8c4704b570e6d850a929)
 
 
-
-
 # Data Modelling
 The Task Datatype is as follows
 ```$xslt
