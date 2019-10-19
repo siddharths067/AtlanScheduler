@@ -99,7 +99,7 @@ async function main(){
             }).then(tasks => {
                 return processTask(tasks, id);
             }).catch(err => {
-                logger.error(`An error occurred while fetching task from db, re-queuing ${err}`);
+                logger.error(`An error occurred ${err}`);
 
                 Task.update({
                     status: `terminated`
