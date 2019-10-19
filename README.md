@@ -1,5 +1,5 @@
 # A Scheduler for Distributed Jobs with Abortion Support 
-```docker compose build && docker-compose up``` to execute it
+```docker-compose build && docker-compose up``` to execute it
 
 NOTE: in some cases db might start late than web, just restart the compose and it'll resolve,
 I didn't add a waitforit.sh file
