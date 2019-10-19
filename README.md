@@ -1,5 +1,12 @@
 # A Scheduler for Distributed Jobs with Abortion Support 
-```docker-compose build && docker-compose up``` to execute it
+
+## Running the System in Docker
+```
+git clone https://github.com/siddharths067/AtlanScheduler.git
+cd AtlanScheduler/
+docker-compose build && docker-compose up
+``` 
+to execute it
 
 By default for the sake of solving the questions and easy evaluation from your end, I launch 3 workers
 
