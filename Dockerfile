@@ -14,5 +14,6 @@ RUN ls
 RUN node -v
 RUN npm -v
 RUN npm install
-
-CMD ["npm", "start"]
+RUN chmod +x easyeval.sh
+# Adjust number of workers here
+CMD ["./easyeval.sh"]

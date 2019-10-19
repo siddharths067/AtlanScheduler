@@ -1,8 +1,8 @@
 # A Scheduler for Distributed Jobs with Abortion Support 
 ```docker-compose build && docker-compose up``` to execute it
 
-NOTE: in some cases db might start late than web, just restart the compose and it'll resolve,
-I didn't add a waitforit.sh file
+By default for the sake of solving the questions and easy evaluation from your end, I launch 3 workers
+
 
 
 # API Routes and POSTMAN collection for testing
